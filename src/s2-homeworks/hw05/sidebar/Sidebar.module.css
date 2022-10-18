@@ -36,13 +36,15 @@
     color: #000000;
 }
 
-.nav s:hover {
+.nav a:hover {
     color: #58ACFF;
+    font-size: 30px;
 }
 
-.nav s.active {
+.nav a.active {
     text-decoration-line: underline;
     color: #0059B2;
+    font-size: 30px;
 }
 
 .close {
