@@ -5,7 +5,7 @@
 .sidebar.open {
     display: flex;
     position: absolute;
-    width: 20vw;
+    width: 30vw;
     height: 100vh;
     background-color: #FFFFFF;
     z-index: 4;
@@ -52,8 +52,7 @@
     order: 2;
     width: 25px;
     height: 25px;
-
-    margin-right: 40px;
+    margin-right: 22px;
     border-radius: 3px;
     border-color: #FFFFFF;
 }
