@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/hw-ignat/static/css/main.43f2baf1.css",
-    "main.js": "/hw-ignat/static/js/main.f59cbe01.js",
+    "main.css": "/hw-ignat/static/css/main.f1499c55.css",
+    "main.js": "/hw-ignat/static/js/main.93a26164.js",
     "static/js/787.66cb4309.chunk.js": "/hw-ignat/static/js/787.66cb4309.chunk.js",
     "static/media/avatarArtyom.png": "/hw-ignat/static/media/avatarArtyom.9781dc8c95597a5bfbc6.png",
     "static/media/avatarNadya.png": "/hw-ignat/static/media/avatarNadya.500aa7fa07639051e13a.png",
     "static/media/404.svg": "/hw-ignat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/closeOutline.svg": "/hw-ignat/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/Circle-Loading.svg": "/hw-ignat/static/media/Circle-Loading.385f97b7b8bc25cf2660.svg",
     "static/media/editIcon.svg": "/hw-ignat/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/chevron-down.svg": "/hw-ignat/static/media/chevron-down.dc1bc44c12d489302229.svg",
     "static/media/checked.svg": "/hw-ignat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/hw-ignat/index.html",
     "static/media/burger.svg": "/hw-ignat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.43f2baf1.css.map": "/hw-ignat/static/css/main.43f2baf1.css.map",
-    "main.f59cbe01.js.map": "/hw-ignat/static/js/main.f59cbe01.js.map",
+    "main.f1499c55.css.map": "/hw-ignat/static/css/main.f1499c55.css.map",
+    "main.93a26164.js.map": "/hw-ignat/static/js/main.93a26164.js.map",
     "787.66cb4309.chunk.js.map": "/hw-ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43f2baf1.css",
-    "static/js/main.f59cbe01.js"
+    "static/css/main.f1499c55.css",
+    "static/js/main.93a26164.js"
   ]
 }
