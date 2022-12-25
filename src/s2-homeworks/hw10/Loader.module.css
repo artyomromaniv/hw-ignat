@@ -3,11 +3,11 @@
 /*}*/
 
 .loader {
-    width: 90px;
-    height: 90px;
+    width: 150px;
+    height: 150px;
     background: url("./Circle-Loading.svg") no-repeat center;
     border-radius: 50%;
-    animation: rotation 0.8s linear infinite;
+    animation: rotation 0.4s linear infinite;
 }
 
 
