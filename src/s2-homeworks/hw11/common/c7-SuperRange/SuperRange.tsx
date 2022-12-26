@@ -11,9 +11,9 @@ const SuperRange: React.FC<SliderProps> = (props) => {
                     color: "#8B8B8B",
                 },
 
-                // '& #hw11-single-slider:first-child': {
-                //   width: '185px'
-                // },
+                '& #hw11-single-slider:first-child': {
+                  width: '185px'
+                },
                 '& .MuiSlider-thumb': {
                     color: '#fff',
 
