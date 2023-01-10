@@ -24,7 +24,6 @@ function HW11() {
             setValue1(value[0]);
         } else setValue1(value);
 
-
         // пишет студент
         // если пришёл массив - сохранить значения в оба useState, иначе в первый
     };
