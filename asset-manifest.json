@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/hw-ignat/static/css/main.1c463abe.css",
-    "main.js": "/hw-ignat/static/js/main.08eb1aa3.js",
+    "main.css": "/hw-ignat/static/css/main.b00d2139.css",
+    "main.js": "/hw-ignat/static/js/main.353b902d.js",
     "static/js/787.66cb4309.chunk.js": "/hw-ignat/static/js/787.66cb4309.chunk.js",
     "static/media/avatarArtyom.png": "/hw-ignat/static/media/avatarArtyom.9781dc8c95597a5bfbc6.png",
     "static/media/avatarNadya.png": "/hw-ignat/static/media/avatarNadya.500aa7fa07639051e13a.png",
+    "static/media/200.svg": "/hw-ignat/static/media/200.2b4de1542921864a6ecb8c3301ea4670.svg",
+    "static/media/error.svg": "/hw-ignat/static/media/error.9a99652a785b87f2f448e23e5da3045d.svg",
+    "static/media/500.svg": "/hw-ignat/static/media/500.65355d1617c6a93fc93572680052f0b7.svg",
+    "static/media/400.svg": "/hw-ignat/static/media/400.4e46e304dcfdcae89fcfb902d8863816.svg",
     "static/media/404.svg": "/hw-ignat/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/hw-ignat/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
     "static/media/Circle-Loading.svg": "/hw-ignat/static/media/Circle-Loading.385f97b7b8bc25cf2660.svg",
@@ -13,12 +17,12 @@
     "static/media/checked.svg": "/hw-ignat/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/hw-ignat/index.html",
     "static/media/burger.svg": "/hw-ignat/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.1c463abe.css.map": "/hw-ignat/static/css/main.1c463abe.css.map",
-    "main.08eb1aa3.js.map": "/hw-ignat/static/js/main.08eb1aa3.js.map",
+    "main.b00d2139.css.map": "/hw-ignat/static/css/main.b00d2139.css.map",
+    "main.353b902d.js.map": "/hw-ignat/static/js/main.353b902d.js.map",
     "787.66cb4309.chunk.js.map": "/hw-ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c463abe.css",
-    "static/js/main.08eb1aa3.js"
+    "static/css/main.b00d2139.css",
+    "static/js/main.353b902d.js"
   ]
 }
