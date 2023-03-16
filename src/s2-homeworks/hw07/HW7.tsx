@@ -13,7 +13,7 @@ import s from './HW7.module.css';
 
 export type OptionsType = {
     id: number
-    value: string
+    value: string | number
 }
 
 const arr: Array<OptionsType> = [
